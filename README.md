@@ -1,4 +1,4 @@
-[![Header](https://github.com/FDDQA/FDDQA/blob/main/Assets/logo.png)]
+![Header](https://github.com/FDDQA/FDDQA/blob/main/Assets/logo.png)
 
 About me
 
