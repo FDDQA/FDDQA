@@ -1,6 +1,17 @@
 ![Header](https://github.com/FDDQA/FDDQA/blob/main/Assets/logo.png)
 
-## About me
+## Hello! A little about me:
+Beginner QA-engineer. Looking for a job </br>
+Pedant, geek, workaholic </br>
+3+ years of system administration
+More about me:
+Aspiring Quality Assurance Engineer with a strong passion for ensuring software applications meet the highest standards of quality. 
+Proficient in manual testing, familiar with automated testing tools, and experienced in the software development life cycle. 
+Strong problem-solving skills and attention to detail, with the ability to effectively communicate technical information to non-technical stakeholders. 
+Seeking an Internship in a dynamic and challenging environment where I can further develop my skills and contribute to the success of projects.
+---
+Developing games on the <a href="https://clck.ru/33VGY5">Yandex.Games
+
 
 
 ## Language
@@ -19,6 +30,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger)
+![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows&logoColor=blue)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
+
 
 
 
@@ -29,7 +43,7 @@
 
 
 ## Hobbies
+![Unity](https://github.com/FDDQA/FDDQA/blob/main/Assets/unity.png)
 ![Davinci Resolve](https://github.com/FDDQA/FDDQA/blob/main/Assets/davinci.png)
-![Photoshop](https://github.com/FDDQA/FDDQA/blob/main/Assets/audacity.png)
+![Audacity](https://github.com/FDDQA/FDDQA/blob/main/Assets/audacity.png)
 ![Photoshop](https://github.com/FDDQA/FDDQA/blob/main/Assets/ps.png)
-
