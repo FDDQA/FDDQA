@@ -8,6 +8,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
+</br>
 [![CodeWars](https://www.codewars.com/users/DmitryF/badges/small)](https://www.codewars.com/users/DmitryF)
 
 ## Tools
@@ -28,7 +29,7 @@
 
 
 ## Hobbies
-![Davinci Resolve](https://github.com/FDDQA/FDDQA/blob/main/Assets/davinci.svg)
+![Davinci Resolve](https://github.com/FDDQA/FDDQA/blob/main/Assets/davinci.png)
 ![Photoshop](https://github.com/FDDQA/FDDQA/blob/main/Assets/audacity.png)
 ![Photoshop](https://github.com/FDDQA/FDDQA/blob/main/Assets/ps.png)
 
