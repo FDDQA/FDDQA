@@ -21,9 +21,9 @@ Seeking an Internship/a job in a dynamic and challenging environment where I can
 <h2> Developing games on the <a href="https://clck.ru/33VGY5">Yandex.Games </h2>
 ---
 ## Test artifacts 
-<a href ="https://github.com/FDDQA/FDDQA/tree/main/Test%20cases">- Test cases <br>
-<a href ="https://github.com/FDDQA/FDDQA/tree/main/Bug%20reports">- Bug reports <br>
-<a href="https://github.com/FDDQA/FDDQA/tree/main/Check%20lists">- Check lists
+<a href ="https://github.com/FDDQA/FDDQA/tree/main/Test%20cases">- Test cases </br>
+<a href ="https://github.com/FDDQA/FDDQA/tree/main/Bug%20reports">- Bug reports </br>
+<a href="https://github.com/FDDQA/FDDQA/tree/main/Check%20lists">- Check lists </br>
 ---
 ## Language
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
