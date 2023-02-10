@@ -2,24 +2,24 @@
 
 ## Hello! A little about me:
 ### Beginner QA-engineer. Looking for a job </br>
-Pedant, geek, workaholic </br>
-3+ years of system administration</br>
-More about me:</br>
-Aspiring Quality Assurance Engineer with a strong passion for ensuring software applications meet the highest standards of quality. </br>
-Proficient in manual testing, familiar with automated testing tools, and experienced in the software development life cycle. </br>
-Strong problem-solving skills and attention to detail, with the ability to effectively communicate technical information to non-technical stakeholders. </br>
-Seeking an Internship/a job in a dynamic and challenging environment where I can further develop my skills and contribute to the success of projects.</br>
+### Pedant, geek, workaholic </br>
+### 3+ years of system administration</br>
+### More about me:</br>
+### Aspiring Quality Assurance Engineer with a strong passion for ensuring software applications meet the highest standards of quality. </br>
+### Proficient in manual testing, familiar with automated testing tools, and experienced in the software development life cycle. </br>
+### Strong problem-solving skills and attention to detail, with the ability to effectively communicate technical information to non-technical stakeholders. </br>
+### Seeking an Internship/a job in a dynamic and challenging environment where I can further develop my skills and contribute to the success of projects.</br>
 ---
 ### Начинающий QA-инженер. В поиске работы
-Педант, гик, трудоголик
-3+ лет системного администрирования
-Подробнее обо мне:
-Начинающий инженер по обеспечению качества, страстно желающий обеспечить соответствие программных приложений самым высоким стандартам качества. </br>
-Имею опыт в ручном тестировании, знаком с инструментами автоматизированного тестирования и имею опыт работы в жизненном цикле разработки программного обеспечения.</br>
-Сильные навыки решения проблем и внимание к деталям, а также способность эффективно передавать техническую информацию нетехническим заинтересованным сторонам. </br>
-Ищу стажировку/работу в динамичной и сложной среде, где я мог бы еще больше развить свои навыки и внести свой вклад в успех проектов. </br>
+### Педант, гик, трудоголик
+### 3+ лет системного администрирования
+### Подробнее обо мне:
+### Начинающий инженер по обеспечению качества, страстно желающий обеспечить соответствие программных приложений самым высоким стандартам качества. </br>
+### Имею опыт в ручном тестировании, знаком с инструментами автоматизированного тестирования и имею опыт работы в жизненном цикле разработки программного обеспечения.</br>
+### Сильные навыки решения проблем и внимание к деталям, а также способность эффективно передавать техническую информацию нетехническим заинтересованным сторонам. </br>
+### Ищу стажировку/работу в динамичной и сложной среде, где я мог бы еще больше развить свои навыки и внести свой вклад в успех проектов. </br>
 ---
-Developing games on the <a href="https://clck.ru/33VGY5">Yandex.Games
+### Developing games on the <a href="https://clck.ru/33VGY5">Yandex.Games
 
 ## Test artifacts 
 <a href ="https://github.com/FDDQA/FDDQA/tree/main/Test%20cases">- Test cases <br>
