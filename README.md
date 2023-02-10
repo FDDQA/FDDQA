@@ -12,6 +12,10 @@ Seeking an Internship in a dynamic and challenging environment where I can furth
 ---
 Developing games on the <a href="https://clck.ru/33VGY5">Yandex.Games
 
+## Test artifacts 
+<a href ="https://github.com/FDDQA/FDDQA/tree/main/Test%20cases">- Test cases <br>
+<a href ="https://github.com/FDDQA/FDDQA/tree/main/Bug%20reports">- Bug reports <br>
+<a href="https://github.com/FDDQA/FDDQA/tree/main/Check%20lists">- Check lists
 
 
 ## Language
