@@ -1,7 +1,7 @@
 ![Header](https://github.com/FDDQA/FDDQA/blob/main/Assets/logo.png)
 
-### Hello! A little about me:
-Beginner QA-engineer. Looking for a job </br>
+## Hello! A little about me:
+### Beginner QA-engineer. Looking for a job </br>
 Pedant, geek, workaholic </br>
 3+ years of system administration</br>
 More about me:</br>
@@ -10,7 +10,7 @@ Proficient in manual testing, familiar with automated testing tools, and experie
 Strong problem-solving skills and attention to detail, with the ability to effectively communicate technical information to non-technical stakeholders. </br>
 Seeking an Internship/a job in a dynamic and challenging environment where I can further develop my skills and contribute to the success of projects.</br>
 ---
-Начинающий QA-инженер. В поиске работы
+### Начинающий QA-инженер. В поиске работы
 Педант, гик, трудоголик
 3+ лет системного администрирования
 Подробнее обо мне:
