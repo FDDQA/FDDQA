@@ -39,7 +39,7 @@ Developing games on the <a href="https://clck.ru/33VGY5">Yandex.Games
 ## My profiles (clickable)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=firebrick)](https://www.youtube.com/channel/UC1mMX5nDu7uEQNDmcIf4Cpw)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Dmitrii_FDD)
-[![LinkedIn](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dmitrii-falaleev-308134237/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dmitrii-falaleev-308134237/)
 
 
 ## Hobbies
