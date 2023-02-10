@@ -9,10 +9,10 @@ Proficient in manual testing, familiar with automated testing tools, and experie
 Strong problem-solving skills and attention to detail, with the ability to effectively communicate technical information to non-technical stakeholders.
 Seeking an Internship/a job in a dynamic and challenging environment where I can further develop my skills and contribute to the success of projects.
 ## Привет! Немного обо мне:
-Начинающий QA-инженер. В поиске работы
-Педант, гик, трудоголик
-3+ лет системного администрирования
-Подробнее обо мне:
+Начинающий QA-инженер. В поиске работы </br>
+Педант, гик, трудоголик </br>
+3+ лет системного администрирования </br>
+Подробнее обо мне: </br>
 Начинающий инженер по обеспечению качества, страстно желающий обеспечить соответствие программных приложений самым высоким стандартам качества.
 Имею опыт в ручном тестировании и знаком с инструментами автоматизированного тестирования, а так же с теорией жизненного цикла ПО.
 Сильные навыки в решении проблем и внимание к деталям, способность грамотно передавать техническую информацию простым языком.
