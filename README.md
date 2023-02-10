@@ -1,5 +1,5 @@
 ![Header](https://github.com/FDDQA/FDDQA/blob/main/Assets/logo.png)
-
+---
 ## Hello! A little about me:
 <a>Beginner QA-engineer. Looking for a job </br>
 Pedant, geek, workaholic </br>
