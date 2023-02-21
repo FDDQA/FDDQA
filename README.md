@@ -21,7 +21,7 @@ Seeking an Internship/a job in a dynamic and challenging environment where I can
 ## Test artifacts
 <a href = "https://github.com/FDDQA/FDDQA/tree/main/Test%20cases">- Test cases </br>
 <a href = "https://github.com/FDDQA/FDDQA/tree/main/Bug%20reports">- Bug reports </br>
-<a href = "https://github.com/FDDQA/FDDQA/tree/main/Check%20lists">- Check lists </br>
+<a href = "https://github.com/FDDQA/FDDQA/tree/main/Checklists">- Check lists </br>
 ## Language
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
